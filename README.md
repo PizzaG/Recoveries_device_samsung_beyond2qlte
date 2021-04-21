@@ -1,6 +1,6 @@
 # Recovery Device Trees
 # S10+
-# CodeName: Beyond0qlte
+# CodeName: Beyond2qlte
 
 
 This is left Blank on Purpose
