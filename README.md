@@ -1,5 +1,5 @@
 # Recovery Device Trees
-# S10e
+# S10+
 # CodeName: Beyond0qlte
 
 
