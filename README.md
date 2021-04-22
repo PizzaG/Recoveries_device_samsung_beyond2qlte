@@ -1,3 +1,13 @@
-# Recoveries_device_samsung_beyond0qlte
+## Recovery Device Tree for the Samsung Galaxy S10+ (Snapdragon)
 
-This is left Blank on Purpose.  There are 8 recoveries to choose from, slect the branch you want
+## How-to compile it:
+
+```sh
+export ALLOW_MISSING_DEPENDENCIES=true
+. build/envsetup.sh
+lunch omni_beyond2qlte-eng
+make recoveryimage
+```
+
+Kernel source:
+https://github.com/mohammad92/android_kernel_samsung_sm8150
